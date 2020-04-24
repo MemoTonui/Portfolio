@@ -1,5 +1,27 @@
 *{
     padding: 0;
-    margin: 0;
+    margin: 10px;
+  
+    font-family: georgia;
+}
+header{
+    color: maroon;
+    text-transform: uppercase;
+    text-align: center;
+}
+body{
     background-color: burlywood;
+}
+
+.div1{
+    background-color: cornsilk;
+    height: 30%;
+    width: 50%;
+    margin-left: 25%;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 30px;
+}
+.div1 p {
+    width: 80%;
 }
