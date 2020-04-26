@@ -35,17 +35,13 @@ img {
 }
 .me {
     display: inline-block;
-    float:left;
-}
-ol li {
-    list-style: none;
-    text-decoration: underline;
-    
-    font-size: larger;
-    letter-spacing: 0.03em;
+    float :left;
 }
 h2{
     padding:15px;
+}
+h3{
+    margin-top: 20px;
 }
 @media screen and (max-width:600px) {
     header {
