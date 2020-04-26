@@ -11,12 +11,12 @@ header{
     letter-spacing: 1.2em;
 }
 body {
-    background-color: cadetblue;
+    background-image: linear-gradient(180deg,cadetblue,blueviolet,cadetblue,darkblue);
     word-spacing: 0.2em;
 }
 
 .div1{
-    
+    background-color:white;
     height: 30%;
     width: 50%;
     margin-left: 25%;
@@ -40,9 +40,9 @@ img {
 ol li {
     list-style: none;
     text-decoration: underline;
-    color: white;
+    
     font-size: larger;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.03em;
 }
 h2{
     padding:15px;
